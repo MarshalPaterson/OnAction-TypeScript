@@ -1,7 +1,7 @@
 {
   "name": "onaction",
   "version": "0.1.9",
-  "description": "Observer Pattern in Typescript",
+  "description": "Observer Pattern in TypeScript",
   "main": "index.js",
   "author": "Marshal Paterson",
   "license": "MIT",
