@@ -1,6 +1,6 @@
 # OnAction-TypeScript
 
-OnAction is a lightweight implementation that helps the over engineering on a app. Just want to get your API calls data to the UI the easiest way possible, OnAction is for you.
+OnAction is a lightweight TypeScript implementation of the Observer Pattern. Just want to get your API calls data to the UI the easiest way possible, OnAction is for you.
 
 ## Installation
 
