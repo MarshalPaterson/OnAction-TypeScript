@@ -9,19 +9,21 @@ yarn add 'onaction'
 ```
 
 To add a listener simply add:
+
 ```
-  let ONE_ACTION = "ONE_ACTION";
+let ONE_ACTION = "ONE_ACTION";
 
-    var action: IOnActionListener = {
-      onAction: (it: any) => {
+var action: IOnActionListener = {
+    onAction: (it: any) => {
         console.log(it);
-      },
-    };
+    },
+};
 
-    OnAction.getInstance().addOnAction(ONE_ACTION, action);
+OnAction.getInstance().addOnAction(ONE_ACTION, action);
 ```
 
 To send the custom event with passing data to it:
+
 ```
 OnAction.getInstance().doAction(ONE_ACTION, "NEW TEXT");
 ```
