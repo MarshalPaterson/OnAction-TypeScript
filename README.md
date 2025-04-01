@@ -5,7 +5,7 @@ OnAction is a lightweight TypeScript implementation of the Observer Pattern. Jus
 ## Installation
 
 ```
-yarn add 'onaction'
+yarn add 'on-action'
 ```
 
 To add a listener simply add:

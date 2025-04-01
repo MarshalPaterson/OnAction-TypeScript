@@ -1,5 +1,5 @@
 {
-  "name": "onaction",
+  "name": "on-action",
   "version": "2.0.1",
   "description": "Observer Pattern in TypeScript",
   "main": "index.js",
